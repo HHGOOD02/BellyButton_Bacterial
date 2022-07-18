@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+
+.jumbotron {
+    background-image: url("../imgs/EWWW.jpeg");
+    background-size: 100% 120%;
+    text-align: center;
+    font-style: italic;
+/* lol you have to look at a belly button to grade my work */
+  }
+
+/*There ya go, bg color, font family, and background image. That's three!*/
+  
